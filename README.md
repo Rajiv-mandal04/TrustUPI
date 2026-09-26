@@ -1,8 +1,10 @@
 # TrustUPI - AI Powered Fraud Detection for UPI Transactions
 
-**TrustUPI**  AI-powered UPI Fraud Detection is an end-to-end fraud detection platform designed to analyze UPI transactions, identify suspicious behavior, calculate transaction risk, and generate fraud alerts.
+**TrustUPI**   AI-powered UPI Fraud Detection is an end-to-end fraud detection platform designed to analyze UPI transactions, identify suspicious behavior, calculate transaction risk, and generate fraud alerts.
+<br>
 <br>
 The system combines machine learning, anomaly detection, behavioral analysis, FastAPI, PostgreSQL, and React to provide a real-time fraud monitoring dashboard.
+<br>
 <br>
 **Website:** https://trustupi.vercel.app/ <br>
 **API Documentation:** https://trustupi.onrender.com/docs
