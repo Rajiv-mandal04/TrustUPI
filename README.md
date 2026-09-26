@@ -1,4 +1,4 @@
-# TrustUPI - **AI Powered Fraud Detection for UPI Transactions**
+# TrustUPI — Secure Every UPI Payment
 
 **TrustUPI** — AI-powered UPI Fraud Detection is an end-to-end fraud detection platform designed to analyze UPI transactions, identify suspicious behavior, calculate transaction risk, and generate fraud alerts.
 <br>
