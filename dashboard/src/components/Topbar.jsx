@@ -238,7 +238,7 @@ export default function Topbar() {
 
       socket =
         new WebSocket(
-          "ws://127.0.0.1:8000/ws/dashboard"
+          "wss://trustupi.onrender.com/ws/dashboard"
         );
 
 

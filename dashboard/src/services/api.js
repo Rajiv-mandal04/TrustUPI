@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://127.0.0.1:8000/api/v1",
+  baseURL: "https://trustupi.onrender.com/api/v1",
   headers: {
     "Content-Type": "application/json",
     "Cache-Control": "no-cache",
@@ -119,7 +119,7 @@ export const getActivity = async () => {
 
 export const getApiHealth = async () => {
   const response = await axios.get(
-    `http://127.0.0.1:8000/health?_t=${Date.now()}`
+    `https://trustupi.onrender.com/health?_t=${Date.now()}`
   );
 
   return response.data;
